@@ -1,0 +1,15 @@
+{
+  "name": "TMG",
+  "short_name": "TMG",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0F2B22",
+  "theme_color": "#0F2B22",
+  "icons": [
+    {
+      "src": "icon.PNG",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
